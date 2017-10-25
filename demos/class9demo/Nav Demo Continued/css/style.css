@@ -129,16 +129,14 @@ a[href$=".pdf"] {
 
 body {
 	background-image: url('../img/gstripe.png');
-	
 }
 
 @media screen and (max-width: 600px) {
 
-
 	body {
 		background-image: url('../img/pdf.png');
-	
-}
+  }
+
 }
 
 

@@ -136,6 +136,7 @@ margin-bottom: 20px;
 
 #main-content ul#bul2 li {
 	padding-left: 20px;
+  margin-left: 30px;
 	background-image: url("../images/bullet-stuart.png");
 	background-repeat: no-repeat;
 	background-position: 2px 2px;
